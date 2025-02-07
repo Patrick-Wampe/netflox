@@ -58,7 +58,7 @@ lesDonneesDesComptes = {'usernames': {'pjohn': {'name': 'jsmith',
    'failed_login_attemps': 0, # Sera géré automatiquement
    'logged_in': False, # Sera géré automatiquement
    'role': 'utilisateur'},
-                                      {'arnaud': {'name': 'arnaud',
+    {'arnaud': {'name': 'arnaud',
     "first_name" : "arnaud",
     "last_name" : "arnaud",
    'password': 'boss',
@@ -66,7 +66,6 @@ lesDonneesDesComptes = {'usernames': {'pjohn': {'name': 'jsmith',
    'failed_login_attemps': 0, # Sera géré automatiquement
    'logged_in': False, # Sera géré automatiquement
    'role': 'utilisateur'},
-   
   'fherry': {'name': 'fherry',
     "first_name" : "Fabien",
     "last_name" : "Herry",
