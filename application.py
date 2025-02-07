@@ -50,11 +50,11 @@ def accueil():
             st.subheader(f"{recommandation}", divider=True)
 
 
-lesDonneesDesComptes = {'usernames': {'pjohn': {'name': 'jsmith',
-    "first_name" : "Promise",
-    "last_name" : "John",
-   'password': '2003',
-   'email': 'pJohn@gmail.com',
+lesDonneesDesComptes = {'usernames': {'arnaud': {'name': 'jsmith',
+    "first_name" : "Arnaud",
+    "last_name" : "Rambourg",
+   'password': '1234',
+   'email': 'arambourg@gmail.com',
    'failed_login_attemps': 0, # Sera géré automatiquement
    'logged_in': False, # Sera géré automatiquement
    'role': 'utilisateur'},
